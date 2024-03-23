@@ -1,4 +1,5 @@
 from flask import Flask, jsonify, request
+from waitress import serve
 import requests
 import xmltodict
 import json
@@ -44,4 +45,4 @@ def convert_xml_to_json(path):
 
 
 if __name__ == '__main__':
-    app.run(host="0.0.0.0", port="7236")
+    serve(app, host="0.0.0.0", port="7236")
