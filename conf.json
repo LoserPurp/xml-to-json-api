@@ -1,4 +1,4 @@
 {
-    "/sucess": "https://mocktarget.apigee.net/xml",
+    "/success": "https://mocktarget.apigee.net/xml",
     "/error": "https://mocktarget.apigee.net/xml2"
 }
