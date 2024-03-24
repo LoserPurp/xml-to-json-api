@@ -25,7 +25,7 @@ Here is an example of what your endpoints will look like.
     "/error": "https://mocktarget.apigee.net/xml2"
 }
 ```
-Note that you can name the endpoint whatever to want
+Note that you can name the endpoint whatever you want
 
 ## Use an endpoint
 1. Open up the folder the script and json files are located and run `pyhton app.py`
