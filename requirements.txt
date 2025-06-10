@@ -1,4 +1,4 @@
 Flask==3.0.2
 waitress==3.0.1
-requests==2.32.0
+requests==2.32.4
 xmltodict==0.13.0
